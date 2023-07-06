@@ -1,0 +1,17 @@
+{
+  "name": "ai-helpdesk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cors": "^2.8.5",
+    "firebase-functions": "^4.4.1",
+    "google-auth-library": "^8.9.0"
+  }
+}
