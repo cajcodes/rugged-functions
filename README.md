@@ -24,9 +24,8 @@ For more information on available roles and system prompts when interacting with
 **Note:** Make sure to set up environment variables within Firebase Console before deploying these cloud functions. Specifically, provide the value for OPENAI_API_KEY. For instructions on how to add configuration settings for your project see the [Firebase Configuration Guide](https://firebase.google.com/docs).
 
 ## Credits
-
-Developed by Christopher Jones
-AI assistant powered by OpenAI
+* Developed by Christopher Jones
+* AI assistant powered by OpenAI
 
 ## License
 Proprietary - Copyright © RuggedEdge. All rights reserved.
